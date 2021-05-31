@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waghorn
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Android and Java development
 - 🌱 I’m currently learning Kotlin
 
 <!---
